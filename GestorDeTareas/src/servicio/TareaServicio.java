@@ -19,7 +19,7 @@ import java.util.ArrayList;
  * - pila (Stack<Integer>) para deshacer la última eliminación (almacena ids)
  * Validaciones y transformación de datos antes de llamar al DAO.
  * 
- * @author tatia
+ * @author Tatiana
  */
 public class TareaServicio {
     private final TareaDAO dao;
