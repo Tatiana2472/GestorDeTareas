@@ -24,7 +24,7 @@ import java.util.List;
  * - No usa hilos complicados porque las operaciones son rápidas; si tu BD es remota,
  *   considera usar SwingWorker para no bloquear el EDT.
  * 
- * @author tatia
+ * @author Tatiana
  */
 public class VentanaPrincipal extends JFrame {
 
