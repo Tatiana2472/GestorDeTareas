@@ -42,4 +42,4 @@ Ejecución
 3. Agregar driver JDBC a las librerías.
 4. Ejecutar `app.Main`.
    
-Autor: Tatina Urbina Arroliga
+Autor: Tatiana Urbina Arroliga
