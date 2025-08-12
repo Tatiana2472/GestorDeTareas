@@ -10,7 +10,7 @@ import javax.swing.SwingUtilities;
 
 /**
  * Punto de entrada: ejecuta la GUI en el EDT.
- * @author tatia
+ * @author Tatiana
  */
 public class GestorDeTareas {
 
