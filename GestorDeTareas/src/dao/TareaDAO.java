@@ -19,7 +19,7 @@ import java.util.List;
  * - restaurar() vuelve visible = true.
  * - actualizarEstado() actualiza el campo estado.
  * 
- * @author tatia
+ * @author Tatiana
  */
 public class TareaDAO {
     // Inserta la tarea y setea el id generado en el objeto
