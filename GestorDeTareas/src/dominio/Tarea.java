@@ -11,7 +11,7 @@ import java.time.LocalDate;
  * Modelo de dominio para una Tarea.
  * Representa la entidad que guardamos en BD.
  * 
- * @author tatia
+ * @author Tatiana
  */
 public class Tarea {
     private int id; // 0 si aun no fue persistida
