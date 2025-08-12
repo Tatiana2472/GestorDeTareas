@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author tatia
+ * @author Tatiana
  */
 public class ConexionBD {
     private static final String URL = "jdbc:postgresql://localhost:5432/gestor_tareas";
